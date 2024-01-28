@@ -1,0 +1,11 @@
+            Types of Sorting 
+
+1.Quick sort.
+2.Bubble Sort.
+3.Merge sort.
+4.Insertion Sort.
+5.Selection Sort.
+6.Heap sort.
+7.Radix Sort.
+8.Bucket Sort.
+
